@@ -1,0 +1,2 @@
+# swaymgr
+Sway autotiling manager
