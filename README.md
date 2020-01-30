@@ -34,9 +34,9 @@ go build -o ~/.local/bin/swaymgr .
 * Set keybindings for changing layouts setup
 
 ```
-bindsym --to-code $mod+Alt+s exec swaymgr -s 'spiral'
-bindsym --to-code $mod+Alt+l exec swaymgr -s 'left'
-bindsym --to-code $mod+Alt+m exec swaymgr -s 'manual'
+bindsym --to-code $mod+Alt+s exec swaymgr -s 'set spiral'
+bindsym --to-code $mod+Alt+l exec swaymgr -s 'set left'
+bindsym --to-code $mod+Alt+m exec swaymgr -s 'set manual'
 ```
 
 ## Commands
